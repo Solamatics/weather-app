@@ -1,0 +1,44 @@
+.topbar {
+  display: flex;
+  justify-content: space-between;
+}
+
+input {
+  padding: 1rem;
+  outline: none;
+  background: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+  border: none;
+}
+
+.search {
+  border: 1px solid gainsboro;
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  row-gap: 2;
+  padding: 0.25rem 0.75rem;
+  width: 300px;
+}
+
+button {
+  padding: 1rem 2rem;
+}
+
+/*media query*/
+@media screen and (max-width: 768px) {
+  .topbar {
+    flex-direction: column;
+    gap: 1rem;
+  }
+  button {
+    width: 100%;
+  }
+  input {
+    width: 100%;
+  }
+  .search {
+    width: 150px;
+  }
+}
