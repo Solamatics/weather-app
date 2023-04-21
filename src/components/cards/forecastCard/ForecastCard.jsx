@@ -7,7 +7,7 @@ import "./forecastCard.css";
 import { iconUrl } from "../../../services/appServices";
 
 const ForecastCard = ({ items, tempmin, tempmax }) => {
-  console.log("ITEMS", tempmin);
+  console.log("ITEMS", tempmax);
   return (
     <div className="forecast-card">
       <div className="days">

@@ -1,7 +1,5 @@
 import { DateTime } from "luxon";
 
-
-
 const getWeatherData = (infoType, searchParams) => {
   const url = new URL(process.env.REACT_APP_BASEURL + "/" + infoType);
 
