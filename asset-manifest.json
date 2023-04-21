@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ec8cb57.css",
+    "main.js": "/static/js/main.fcd38bbb.js",
+    "static/media/sunclouds.png": "/static/media/sunclouds.26e7e665643b61be4274.png",
+    "static/media/rainbow.svg": "/static/media/rainbow.b2fecda5ac59de6a8c880f9c51004897.svg",
+    "index.html": "/index.html",
+    "main.5ec8cb57.css.map": "/static/css/main.5ec8cb57.css.map",
+    "main.fcd38bbb.js.map": "/static/js/main.fcd38bbb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ec8cb57.css",
+    "static/js/main.fcd38bbb.js"
+  ]
+}
