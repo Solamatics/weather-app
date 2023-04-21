@@ -3,7 +3,7 @@ This is a weather application
 
 
 #### Technology
-Built with react (frontend) and css with openweather api
+Built with react (frontend) and css with openweather api to get realtime data
 
 #### What does it do
 
