@@ -35,10 +35,10 @@ button {
   button {
     width: 100%;
   }
-  input {
+  /* input {
     width: 100%;
-  }
+  } */
   .search {
-    width: 150px;
+    width: 100%;
   }
 }

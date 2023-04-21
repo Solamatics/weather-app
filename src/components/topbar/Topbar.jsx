@@ -57,7 +57,7 @@ const Topbar = ({ units, setUnits, setQuery }) => {
       </div>
       <div style={{ display: "flex", alignItems: "center", marginTop: "2rem" }}>
         <CiLocationOn size={"2em"} onClick={handleLocationClick} />{" "}
-        <span>Turn on Location</span>
+        <span>Turn on Locations</span>
       </div>
     </div>
   );
